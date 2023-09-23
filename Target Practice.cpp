@@ -1,4 +1,4 @@
-Problem link : https://codeforces.com/contest/1873/problem/C
+//Problem link : https://codeforces.com/contest/1873/problem/C
 
 #include<bits/stdc++.h>
 #include<conio.h>
